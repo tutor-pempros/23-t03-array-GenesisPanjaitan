@@ -1,4 +1,4 @@
-// NIM - NAMA
+// 12S23012 - Genesis Tombak Dapot Tua Panjaitan
 
 #include <stdio.h>
 
